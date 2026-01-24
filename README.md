@@ -171,7 +171,7 @@ A curated list of awesome game decompilations
 - [Big Brain Academy: Wii Degree](https://github.com/vabold/bba-wd)
 - [Bio Menace](https://github.com/lethal-guitar/BioMenaceDecomp)
 - [Black and White](https://github.com/openblack/bw1-decomp)
-- [Blast Corps](https://github.com/retroplastic/blastcorps)
+- [Blast Corps](https://github.com/SlaveOfIDO/blastcorps)
 - [Blasterball Revolution 2](https://github.com/KoboDev/BBR2Decompile)
 - [Bloons TD 5](https://github.com/NKHook/BTD5-Decomp)
 - [Body Harvest](https://github.com/deltaniumindustries/bodyharvestdecomp)
